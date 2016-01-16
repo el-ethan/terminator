@@ -4,9 +4,11 @@
 [profiles]
   [[default]]
     palette = "#2e3436:#abb2bf:#98c379:#e5c07b:#3465a4:#75507b:#06989a:#d3d7cf:#555753:#e06c75:#98c379:#e5c07b:#61afef:#ad7fa8:#34e2e2:#eeeeec"
-    background_color = "#282c34"
     background_image = None
+    use_system_font = False
     foreground_color = "#ffffff"
+    font = Monospace 12
+    background_color = "#282c34"
 [layouts]
   [[default]]
     [[[child1]]]
